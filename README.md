@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello Android">
 
 <p align="center"> 
   Visitor count<br>
@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter,dart,kotlin,firebase,python,django,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,flutter,dart,kotlin,java,firebase,python,django,linux,windows" />
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm krishna singh</h1>
