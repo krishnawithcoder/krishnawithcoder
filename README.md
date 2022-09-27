@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,flutter,dart,kotlin,java,firebase,python,django,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,flutter,dart,kotlin,java,docker,firebase,python,django,linux,windows" />
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm krishna singh</h1>
